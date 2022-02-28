@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The right of tithes asserted: by our old Saxon lavves. A discourse proving them to be neither popish nor antichristian. Wherein the patrons ancient interest is also briefly vindicated, and a word likewise added for universities. By one that hath no place in either of them: nor incumbency upon tithes.</title>
+            <author>One that hath no place in either of them.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91836</idno>
+            <idno type="STC">Wing R1507</idno>
+            <idno type="STC">Thomason E712_9</idno>
+            <idno type="STC">ESTC R203391</idno>
+            <idno type="EEBO-CITATION">99863358</idno>
+            <idno type="PROQUEST">99863358</idno>
+            <idno type="VID">115553</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91836)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115553)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E712[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The right of tithes asserted: by our old Saxon lavves. A discourse proving them to be neither popish nor antichristian. Wherein the patrons ancient interest is also briefly vindicated, and a word likewise added for universities. By one that hath no place in either of them: nor incumbency upon tithes.</title>
+                  <author>One that hath no place in either of them.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the yeare, 1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tithes --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115553:1" rendition="simple:additions"/>
+            <p>THE RIGHT OF TITHES Aſſerted: by our old SAXON LAWES.</p>
+            <p>A Diſcourſe proving them to be neither Popiſh nor Antichriſtian.</p>
+            <p>
+               <hi>WHEREIN</hi> The Patrons ancient Intereſt is alſo briefly vin<g ref="char:EOLhyphen"/>dicated, and a word likewiſe added for <hi>UNIVERSITIES.</hi>
+            </p>
+            <p>By one that hath no place in either of them: nor Incumbency upon Tithes.</p>
+            <bibl>
+               <hi>ROM. 13.7.</hi>
+            </bibl>
+            <q>
+               <p>Render to every one his dues.</p>
+            </q>
+            <bibl>
+               <hi>1 Cor. 9.14.</hi>
+            </bibl>
+            <q>
+               <p>The Lord hath Ordained, that they which Preach the Goſpell ſhould live of Goſpell.</p>
+            </q>
+            <q>
+               <p>Sacerdos ſum, vivo de decimis, <hi>Hieronym.</hi>
+               </p>
+            </q>
+            <bibl>T. 1. Ep. p. 13.</bibl>
+            <q>
+               <p>Auſtin <hi>hath an whole Sermon</hi> de reddendis Decimis, De Tempor.</p>
+               <bibl>
+                  <hi>Serm. 219.</hi> Ex debito ſunt, <hi>&amp;c.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Yeare, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115553:2"/>
+            <pb n="1" facs="tcp:115553:2"/>
+            <head>Old <hi>SAXON LAWES</hi> FOR TITHES.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Any clamorous Invectives have of late appeared againſt Miniſters, thoſe very Miniſters, that gave the Writers their being in Chriſt, if they have any, ſome of which Pamphletiers, under the ſpecious pretence that their Maintenance by <hi>Tithes</hi> is <hi>Antichriſtian</hi> and <hi>Judaicall,</hi> drive, at leaſt obilquely, upon their totall extirpation. Their <hi>Jus Di<g ref="char:EOLhyphen"/>vinum</hi> hath long agoe beene aſſerted in a Theologicall way upon the occaſion of famous Mr. <hi>Seldens</hi> Hiſtory, by Doctor <hi>Sclater,</hi> and others, and if that were now the <hi>Queſtion,</hi> there be, 'tis ſaid, learned Men that can juſtify them in that ſenſe. Some have ſufficiently declared, how this deſigne kindly gra<g ref="char:EOLhyphen"/>tifies the men of <hi>Rome,</hi> who have had their Hands even up to the Eboes in our troubles. Others have manifeſted the <hi>In<g ref="char:EOLhyphen"/>conveniences and Miſchiefes</hi> that attend the bringing of them in<g ref="char:EOLhyphen"/>to a common Stock or Treaſury, that will neceſſitate Miniſters to frequent Markets, and neglect their ſtudies; Beſides their vexations waiting upon Officers and Pay-maſters, to their great loſſe of time and money, the <hi>Miniſters of Augmentations,</hi> not<g ref="char:EOLhyphen"/>withſtanding all the Care, and Love, and Faithfulneſſe of the <hi>Honourable Truſtees,</hi> meete with many Obſtructions, <hi>and the cry out of Wales is loud, and exceeding grievous, and this Parliament, ſome ſay is Reſolved to ſend downe, and ſee, whether they have done altogether according to that Cry.</hi> The <hi>Incumbents right</hi> to this maintenance hath beene repreſented by the Statute Lawes of the
+<pb n="2" facs="tcp:115553:3"/>Land, all along from <hi>Magna Charta,</hi> downward in a Cata<g ref="char:EOLhyphen"/>logue of well-neere 60 Acts of <hi>Parliament.</hi> The <hi>learned Coun<g ref="char:EOLhyphen"/>ſell</hi> found ſome at firſt diſſatisfied, who went away convinced by their mentionings from <hi>Litletons Tenures,</hi> Ld. <hi>Cookes Inſti<g ref="char:EOLhyphen"/>tutes and other Bookes, Pleadings and Judgements concerning the Ministers juſt Right and Free-hold in TITHES, by <g ref="char:V">Ʋ</g>ſage and Cuſtome time out of mind, and other justifications from the Com<g ref="char:EOLhyphen"/>mon Law,</hi> concluding, that none have more legall right to any thing they doe poſſeſſe; and if this breach bee made, a wide doore will be ſet open to undermine all Civill Rights, and Proprieties.</p>
+            <p>Some ſprinklings there were alſo ſpoken of from the <hi>Old Saxon Lawes,</hi> The endeavour of this Piece is to ſhew that <hi>Tithes</hi> are not <hi>Antichriſtian,</hi> or <hi>Judaicall,</hi> but firſt thoſe ancient <hi>Saxon Records,</hi> not yet ſo obvious to Engliſh Readers, ſhall be propounded from <hi>Lambard,</hi> that hath publiſhed many ſuch Col<g ref="char:EOLhyphen"/>lections, and the <hi>Saxon Bede,</hi> together with Sir <hi>Henry Spelmans</hi> Councells:<note place="margin">De <hi>4.</hi> Linguis. <hi>1<hi rend="sup">o</hi>. 142.</hi>
+               </note> Mr. <hi>Somner</hi> tis like, gives ſome further light, for Dr. <hi>Merick Caſaubon,</hi> after his due commendations of that Ken<g ref="char:EOLhyphen"/>tiſh Gentlemans Abilities and diligence in thoſe Antiquities, affirmeth, that hee hath <hi>ſeverall Lawes which Lambard</hi> cites not. It were well worthy ſome good mans undertaking, to perſwade thoſe, and other ſuch labours of his abroad, and it would become ſome others to <hi>preſerve thoſe Saxon Monuments at Canterbury, Worceſter, Exceſter,</hi> and elſe where.</p>
+            <p>The firſt that I finde is the Law <hi>of Offa King of the Eaſt Angles,</hi>
+               <note place="margin">Sp. Conc. <hi>308.</hi>
+               </note> about the yeare 793. by which he gave to the Church the Tithe of all his ſubſtance.<note place="margin">
+                  <hi>Ib.</hi> p. 352.</note> In the next Century is the moſt conſider<g ref="char:EOLhyphen"/>able, and free donation of <hi>Aethelwolph at Wincheſter,</hi> in the pre<g ref="char:EOLhyphen"/>ſence of the <hi>Kings of Mercia and the Eaſt-angles,</hi> all his Nobles and Biſhops conſenting thereto: Hee was heire and ſucceſſor to that <hi>Egbert King of the Weſt Saxons,</hi> that converted the Hep<g ref="char:EOLhyphen"/>tarchate into a Monarchy, the ſeven Kingdomes into one, and having gotten all the Lands of <hi>England</hi> into his Poſſeſſion, hee conferred the <hi>Tithes</hi> of all upon the Church, and this ſo famous a Record is not mentioned by one, but divers Hiſtorians, as Sir <hi>Henry Spelman</hi> obſerveth in his <hi>Annotations</hi> upon the place, tis remembred by antient <hi>Aſſer</hi> alſo that wrote the Life of King <hi>Alfred.</hi>
+            </p>
+            <pb n="3" facs="tcp:115553:3"/>
+            <p>In the next Century is the moſt conſiderable donation of <hi>Ae<g ref="char:EOLhyphen"/>thelwolph</hi> at <hi>Wincheſter,</hi> in the preſence of the Kings of <hi>Mercia,</hi> and the <hi>Eaſt-angles</hi> all his Biſhops &amp; Nobles conſenting thereto:<note place="margin">
+                  <hi>Ib.</hi> p. 352.</note> He was heire and ſucceſſor to that <hi>Egbert</hi> King of the <hi>Weſt-Sax<g ref="char:EOLhyphen"/>ons,</hi> that converted the <hi>Heptarchy</hi> into a <hi>Monarchy,</hi> the 7 King<g ref="char:EOLhyphen"/>domes into one, and having gotten all the Lands of <hi>England</hi> into his Poſſeſſion, hee conferred the <hi>Tithes</hi> of all upon the Church. <hi>Alured</hi> and <hi>Guthurn</hi> Kings of the <hi>Saxons</hi> and <hi>Danes</hi> in that mu<g ref="char:EOLhyphen"/>tuall League of both Nations provided about 876. If a <hi>Dane</hi> pay not his <hi>Tithe,</hi> let him be puniſhed as a Tranſgreſſor by the Law, and the Engliſh muſt be fined. King <hi>Aethelſtan</hi> obliged himſelfe,<note place="margin">
+                  <hi>Ib.</hi> p. 378.</note> and all his Nobles and Biſhops to pay the <hi>Tithes</hi> of Cattell, and of the Fru<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts of the Earth. King <hi>Edmond</hi> with his Nobles and Eccleſiaſtiques about 946. Pronounced a curſe upon every Chriſtian that did not religiouſly pay his <hi>Tithes.</hi> King <hi>Ed<g ref="char:EOLhyphen"/>gar</hi> about the yeare 967.<note place="margin">
+                  <hi>Lamb.</hi> p. 72. <hi>Spelm.</hi> p. 429.</note> Decreed that whoſoever did not pay his <hi>Tithes</hi> ſhould be pun ſhed, as is ſet down in the <hi>Judiciall</hi> book, adding, let the Kings Officer or Sheriffe, the Biſhop and the Prieſt meet together and force him to pay his Tenth, leaving the owner the 9<hi rend="sup">th</hi> part onely, and for the other 8. parts,<note place="margin">
+                  <hi>Lamb.</hi> 78. <hi>Spelm.</hi> 445. <hi>Spel.</hi> 517. <hi>Ib. p.</hi> 531. <hi>Ib.</hi> p. 544. <hi>Lamb.</hi> p. 98.</note> the Lord ſhall have foure of them, and the Biſhop the other foure. King <hi>Aethelred</hi> alſo about the yeare 1009. commanded that <hi>Tithes</hi> from the Plough, and Cattell be duly paid every yeare. And the ſame King againe about 3. years after made this Law, we enjoyn every man to pay his right <hi>Tithe,</hi> as was beſt done in the dayes of our Predeceſſors.</p>
+            <p>
+               <hi>Canutus</hi> King of <hi>England, Denmarke,</hi> and <hi>Norwey</hi> about the yeare 1032. Ordained that the <hi>Tithes</hi> ſhould be rightly paid by all, and if any refuſed, the Kings Officer, the Biſhop, the Lord of the Soile, and the Prieſt of the place are to aſſemble, and take from him the <hi>Tithe,</hi> leaving him onely the 9<hi rend="sup">th</hi> part, the other 8 parts are to be divided into two medieties, of which the Biſhop takes the one, and the Lord of the Soile the other.</p>
+            <div type="part">
+               <head>Of the Patron.</head>
+               <p>
+                  <hi>Fundi Dominus,</hi> or <hi>terrae Dominus</hi> as that law calls him, is the Patron, that had in his power the donation of <hi>Tithes;</hi> the Sheriffe comes in as the Judge, the Biſhop was the Almoner for the
+<pb n="4" facs="tcp:115553:4"/>poore, and the Lord or Patron had alſo Title and Intereſt ſome way in the <hi>Tithes,</hi> why is there elſe ſo large a Portion of them deſigned to him, and if it be thus, the right of Patronage is ancient, and no badge of the <hi>Norman</hi> Conqueſt. I know not the Age, nor Author of that Verſe.</p>
+            </div>
+            <div type="part">
+               <head>Patronum faciunt Dos, Haereditatio, Fundus.</head>
+               <p>But if I forget not, tis to be found in <hi>Lyndwood,</hi> and ſignifi<g ref="char:EOLhyphen"/>eth, that the poſſeſſion of the ground, or inheritance, or dowry by marriage doe make a Patron; and in purchaſes where ſuch a privileage is annexed,<note place="margin">Part 1. p. 65.</note> the buyer payeth as well for it, as for the Houſes and Lands. Father <hi>Latyneers</hi> Counſell was good, <hi>Pa<g ref="char:EOLhyphen"/>trons are charged to ſee the Office done, and not to ſeeke a lucre and gaine by his Patronſhip.</hi> And againe, <hi>well let Patrons take heed, for they ſhall anſwer for all the Soules that periſh through their default,</hi> this is good Religion, and ſo is that alſo, at leaſt tis right and reaſon, that as many as come lawfully by that civill intereſt in Patronages, have them not illegally extorted from them: conſi<g ref="char:EOLhyphen"/>derable therefore is that Law of <hi>Edward</hi> 6.<note place="margin">A<hi rend="sup">o</hi>. 1. c. 9.</note> When <hi>ſome Chur<g ref="char:EOLhyphen"/>ches in Yorke were taken downe to be united, and drawne into a fewer number, there was due and juſt proviſion made, not onely for the Incumbents of thoſe demoliſht Churches, but that the ſeve<g ref="char:EOLhyphen"/>rall Patrons Rights ſhould bee preſerved, and they make their</hi> Preſentations alternis vic bus, <hi>by courſe one after another,</hi> and ſurely there will bee as much Righteouſneſſe in theſe dayes of greater Promiſes, as there was in the dawning of that other Re<g ref="char:EOLhyphen"/>formation.</p>
+               <p>But I returne,<note place="margin">
+                     <hi>Lamb.</hi> p. 126. <hi>Spelm.</hi> p 620.</note> for there is yet another, a Tenth old Law for theſe <hi>Tithes;</hi> and tis of that good King <hi>Edward,</hi> as hee is cal<g ref="char:EOLhyphen"/>led, the Confeſſor; It ſaith, of all proviſions the Tithe is due and muſt be paid, from Mares, Cowes, Swine, Woods, Medowes, Mills, Parkes, Ponds, Trading, <hi>&amp;c.</hi> of all that God giveth, the Tithe is to be paid, and hee that refuſeth, may be compelled to it, theſe things were granted by the King, Barons and people; and this Law, among others, was ſolemnly ratified and con<g ref="char:EOLhyphen"/>firmed <hi>by King</hi> William <hi>the Conquerour, after hee had made choice of</hi> 12. <hi>Noble Engliſh men in every County, men prudent, and learned in thoſe Lawes. A forraine Conquerour excludes not, but calls in and followes the Counſell of Native Lawyers for the
+<pb n="5" facs="tcp:115553:4"/>eſtabliſhment of this Kingdome,</hi> and engages them by an Oath to declare their Lawes and Cuſtomes truly, not turning to the right hand, or the left, without omiſſion, addition, or prevarication, and they began with matters of Religion, knowing thereby King and Kingdome ſhould have a ſolid foundation, &amp;c. Tis true, among thoſe Lawes there be ſome intermixtures agreeable to thoſe dark times, yet the greateſt part of <hi>Romes</hi> Religion was a ſtranger to the then Saxon Church; by which it will appeare alſo, that Tithes are not ſo Popiſh and Antichriſtian, as ſome conceive, a thing ſoone and eaſily ſaid, but hard to be proved, ſo hard, that I have not yet knowne any godly, learned, and prudent man that hath undertaken it. For indeed it muſt be ſuppoſed that the <hi>Pope is Antichriſt,</hi> that <hi>Antichriſt,</hi> wherein the Aſſer<g ref="char:EOLhyphen"/>tor will have all Papiſts his oppoſites, and thoſe Proteſtants alſo that imagine the great <hi>Turke</hi> to be the great <hi>Antichrist,</hi> there muſt then be a ſerious diſquiſition when the Biſhop of <hi>Rome</hi> became Antichriſt, becauſe in the primitive times divers of them were godly men, and well nigh 20. of them holy Martyrs: and certainly <hi>Antichrist would not dye for Chriſt,</hi> but by a nearer way they ſhall be evinced, by declaring firſt that the old Saxon Church that hath ſpoken ſo much for Tithes, was not ſo <hi>Popiſh and An<g ref="char:EOLhyphen"/>tichriſtian,</hi>
+                  <note place="margin">2. Tithes not Popiſh and Antichriſtian.</note> and that this Miniſters maintenance was not ſuch nor ſo accounted ſince the Reformation; the Religion of the <hi>old Saxons</hi> is vindicated by two arguments in a great meaſure from <hi>Popery and Antichriſtianiſme.</hi>
+               </p>
+               <p n="1">1. By thoſe <hi>Manuſcript Homilyes</hi> extant in <hi>Bennet Colledge Library</hi> in <hi>Cambridge:</hi> when that incomparable Knight, Sir <hi>Henry Spelman,</hi> that hath deſerved ſo well of all the lovers of Learning, and this Nation, was erecting his <hi>Saxon Lecture</hi> in that Univer<g ref="char:EOLhyphen"/>ſity, he made choice of <hi>that unwearied Profeſſor Mr.</hi> Abraham Wheelock, <hi>a Maſter of that Language alſo,</hi> to be the firſt Reader, thoſe <hi>Homilies,</hi> he hath ſaid, <hi>doe not onely inculcate the ſanctifica<g ref="char:EOLhyphen"/>tion of the Sabbath, and other Pieties, but the greateſt part, if not every one of the Articles of Religion maintained among us, are in them aſſerted;</hi> if men have no minde to be in this further inquiſi<g ref="char:EOLhyphen"/>tive, they may judge of the probability hereof by the</p>
+               <p n="2">2. Thing propounded, which is from one of thoſe <hi>Saxon Ser<g ref="char:EOLhyphen"/>mons,</hi> not onely recorded by Mr. <hi>Fox,</hi> but printed by it ſelfe in
+<pb n="6" facs="tcp:115553:5"/>the very beginning of Queen <hi>Elizabeths dayes,</hi> more then fours ſcore yeares ſince, and is atteſted by fourteen or fifteen Biſhops (ſome of which were Confeſſors and Exiles in Queen <hi>Maries</hi> time) to be agreeable to the Old Originall; the Title whereof is, <hi>a Teſtimony of Antiquity, ſhewing the Ancient Faith in the Church of</hi> England, <hi>touching the Sacrament of the Body and Bloud of the Lord, here publiquely preached, and received alſo in the Sax<g ref="char:EOLhyphen"/>ons time, above</hi> 600. <hi>yeares agoe,</hi> wherein the Popiſh reall pre<g ref="char:EOLhyphen"/>ſence is not onely abundantly ſpoken againſt, but ſeverall other points of popery, as the Merit of good works, and the worſhip of Images, it calls for the Creed, the Lords Prayer, and the ſenſe of the Goſpell in the Engliſh tongue, it affirmeth the Houſell, or Sacrament, not to be better at <hi>Eaſter,</hi> then on other dayes, &amp;c.</p>
+               <p>After this Nation recovered from <hi>Rome,</hi>
+                  <note place="margin">2. Since the Reformation.</note> and broak the yoke of <hi>Antichriſt; Tithes</hi> had not been retained if they had been <hi>Popiſh and Antichriſtian:</hi> King <hi>Edward</hi> the 6. made many Lawes againſt the doctrines of <hi>Rome,</hi>
+                  <note place="margin">A<hi rend="sup">o</hi>. 1. c. 1.2.14</note> about the Scriptures, the Body and Blond of Chriſt, receiving it in both kindes, againſt the uſur<g ref="char:EOLhyphen"/>ped power of the Pope, the Biſhops Seale, Style, Juriſdiction, &amp;c. many other <hi>Antichriſtian</hi> abuſes are forbidden,<note place="margin">A<hi rend="sup">o</hi>. 3. <hi>&amp;</hi> 4. c. 10.5. &amp; 6. c. 6.</note> as Purgato<g ref="char:EOLhyphen"/>ry, Maſſes, Trentalls &amp;c. Popiſh Books, and Images are prohibi<g ref="char:EOLhyphen"/>ted, and Popiſh Holy-dayes &amp;c. ſurely the reall endeavours then were to extirpate Popery,<note place="margin">A<hi rend="sup">o</hi>. 3. c. 1 3.</note> Root and Branch, and yet even then particular <hi>Lawes are made about payment of Tithes,</hi> and that ad<g ref="char:EOLhyphen"/>dition of double and treble dammages is not ſo formidable,<note place="margin">A<hi rend="sup">o</hi>. 4 c, 3.</note> be<g ref="char:EOLhyphen"/>cauſe allowed alſo in other caſes. That <hi>Reformation of Eccleſi<g ref="char:EOLhyphen"/>aſticall Lawes was begun in</hi> Henry <hi>the eighth</hi>'s <hi>dayes, brought to ſome perfection while King</hi> Edward the 6. reigned, it is commen<g ref="char:EOLhyphen"/>ded by both their royall Epiſtles, and by Mr. <hi>Jo: Fox</hi> his Latine Preface, a work firſt aſſigned to 32. choice men; King <hi>Edward left it after to Archbiſhop and Martyr</hi> Cranmer alone, who cooke unto him three Aſſiſtants, <hi>Walter Haddon, Rouland Taylor,</hi> and <hi>Peter Martyr,</hi> who ſo compiled it, as we have it, wherein there is a diſtinct <hi>Title of Tithes, and</hi> 19. <hi>Chapters:</hi> ſurely if thoſe foure godly and learned men, one paire of whom were <hi>glorious Mar<g ref="char:EOLhyphen"/>tyrs,</hi> had thought them to be <hi>Antichriſtian,</hi> they would not have been ſo ſerious about them; they that dyed for Chriſt, would not have dyed allowing any errour of <hi>Antichriſt.</hi> That <hi>good old Pu<g ref="char:EOLhyphen"/>ritan,</hi>
+                  <pb n="7" facs="tcp:115553:5"/>that loved ſo dearly, and walked ſo perſectly in the <hi>good old way,</hi> was no enemy to this miniſteriall maintenance, his re<g ref="char:EOLhyphen"/>membrance is precious ſtill,<note place="margin">Serm, <hi>Aug.</hi> 25.</note> of him I preſume Mr. <hi>Cradock</hi> ſpoke when he exhorted the Parliament to walk in the <hi>good old way.</hi> I wiſh no greater happineſſe to my ſelfe, then that I may live and dye in that Puritanicall, and moſt holy Faith: I wiſh no greater happineſſe to this Age, and Nation, as to Religion and godli<g ref="char:EOLhyphen"/>neſſe, then that they would univerſally ſet up his peaceable Piety in practiſe and power; ſurely thoſe quick-ſighted men ſaw as far into <hi>that myſtery of iniquity,</hi> as any other, they were not wont to inveigh againſt <hi>Tithes,</hi> as knowing well that the <hi>
+                     <g ref="char:V">Ʋ</g>niverſities and Colledges</hi> were maintained by them, as well as the <hi>Miniſtery,</hi> and they allowed both, living in the former, and living upon the latter: Doctor <hi>Chaderton</hi> was Maſter of <hi>Emanuel</hi> Colledge in <hi>Cambridge,</hi> Doctor <hi>Reynolds</hi> was Preſident of <hi>Corpus Chriſtion Oxford,</hi> and Mr. <hi>Knewſtubs</hi> had for many yeares the Parſo<g ref="char:EOLhyphen"/>nage of <hi>Cochfield</hi> in <hi>Suff.</hi> all three of them were ſleighted by the reſt of the Puritans of the nation to be <hi>Collocutors before King James,</hi> neere 50. yeares ſince, in the Conference at <hi>Hampton Court,</hi> beſide many other of that godly Generation, ſo living, in ſatisfaction &amp; ſilence, which they would not, could not have done, if <hi>Tithes</hi> indeed were <hi>Popiſh and Antichriſtian;</hi> and be it added, they are not ſuch:<note place="margin">A<hi rend="sup">o</hi>. 2. &amp; 3. c. 20. &amp; A<hi rend="sup">o</hi>. 7. c. 4.</note> This were to <hi>Antichriſtianize</hi> the State, that from <hi>Edward</hi> the ſixth's Lawes receive <hi>Tenths</hi> of the Miniſters, and 'tis a conſiderable Revenue; and if <hi>Tithes</hi> be turned into another channell, that, 'tis like, will run downe another way.</p>
+               <p>
+                  <hi>Tithes</hi> have not their Originall from the <hi>Jewiſh Lawes,</hi>
+                  <note place="margin">3. Tithes not Judaicall.</note> being mentioned in the Scripture, not onely before the <hi>Jewes</hi> had any Law, but before they were a people. <hi>Abraham gave unto Mel<g ref="char:EOLhyphen"/>chiſedech, the Prieſt of the moſt high God, the Tenth of all.</hi> Gen. 14.20. <hi>Jacob alſo engaged himſelfe by a vow, upon Gods bleſſing him, of all that thou ſhalt give me, I will ſurely give the Tenth unto thee,</hi> Gen. 28.22. and this, <hi>ſaith Aynſworth,</hi> was given to the Prieſts of the Lord, and ſome think <hi>Jacob</hi> performed this Vow at his <hi>ſetting up an Altar, and calling the place El Bethel,</hi> Gen. 35.7. <hi>Tithes</hi> therefore do not derive their deſcent from the <hi>Leviticall Prieſthood,</hi> or <hi>the Ceremoniall Law,</hi> neither are they to be diſli<g ref="char:EOLhyphen"/>ked;
+<pb n="8" facs="tcp:115553:6"/>if they did indeed looke like <hi>Judaiſme,</hi> ſeeing their <hi>Poli<g ref="char:EOLhyphen"/>tiques</hi> and <hi>Judicialls</hi> begin every day to be more and more ve<g ref="char:EOLhyphen"/>nerable. The <hi>Objections</hi> that ſome Zealots make ageinſt Tithes,<note place="margin">In forement. Scim.</note> muſt needs be weak, even in Mr. <hi>Cradocks</hi> judgement, who ſaid ſo pull<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quely, The more zealous are the more weak &amp;c. and therefore though theſe be the times, that <hi>
+                     <g ref="char:V">Ʋ</g>niverſities and Tithes</hi> be ſo much decayed, for they ſtand &amp; fall together, yet the clamor is not ſo much from Piety and Wiſdome, as from weakneſſe and Avarice. <hi>Nae tu aurum multos habes inimicos,</hi> Oh you golden Tithes, you have many enemyes, if they may be called ſuch that love them ſo deerely, and gape ſo wide after them, and can ſwal<g ref="char:EOLhyphen"/>low multitudes of them without check, or chewing. I thought to have added here, in the behalfe of Univerſities, Learning, Mi<g ref="char:EOLhyphen"/>niſters, and their maintenance, ſome expreſſions from <hi>Luther,</hi> and our <hi>owne Martyrs,</hi> and holy Writers in the firſt Reformati<g ref="char:EOLhyphen"/>on, <hi>Barnes Latymer, Hooper, Bucer, Leaver, &amp;c.</hi> I would not, ſaith <hi>Latymer,</hi>
+                  <note place="margin">Letter to King <hi>Hen.</hi> 8.</note> 
+                  <hi>That your Grace ſhould take away the goods due to the Church, but take away evill perſons from the goods, and ſet bet<g ref="char:EOLhyphen"/>ter in their stead.</hi> Two things more conſider from the Old Pu<g ref="char:EOLhyphen"/>ritan: The firſt concerning <hi>
+                     <g ref="char:V">Ʋ</g>niverſities and Learning,</hi> thoſe that went into <hi>New England</hi> were ſuch I know divers of them to be ſo, they ſuppreſſe Errors, and Blaſphemy, protect Miniſters, and Miniſtry, they are ſetting up an <hi>Academy</hi> &amp; ſhall <hi>Old England</hi> pull them down? ſhall the Daughter be more pious &amp; prudent then the Mother? The <hi>good old Puritan</hi> here was of another minde; ſo writes <hi>one in the name of the other Miniſters of</hi> Devon <hi>and</hi> Corn<g ref="char:EOLhyphen"/>wall, <hi>I ſpeake not againſt <g ref="char:V">Ʋ</g>niver ſities, nor againſt Degrees, I wiſh from my heart,</hi>
+                  <note place="margin">Remov. of cert. Imputat. p. 28.</note> 
+                  <hi>that each Colledge in both may be as</hi> Samuels <hi>was, even</hi> Naioth, 1 Sam. 19.18. <hi>that is, Beauty it ſelfe, and that the Schollers may be as the Plants, &amp;c.</hi> Pſal. 144.12. An ill time there<g ref="char:EOLhyphen"/>fore now, now to deſigne their deſtruction, when they are be<g ref="char:EOLhyphen"/>come as the <hi>old Puritan</hi> wiſhed them. Ask Mr. <hi>Dell, Maſter of</hi> Ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us <hi>Colledge in</hi> Cambridge, if the Governours be not all god<g ref="char:EOLhyphen"/>ly, learned, and prudent, enquire of the <hi>Townſmen,</hi> formerly no friends, if the <hi>Schollers</hi> be not ſo well ordered, that the Taverns and Tippling houſes be empty and angry, 'tis as well at <hi>Oxford</hi> alſo, and in ſome ſenſe better, for there is never a Bird there, that I know, defiling her owne Neſt, never a head that
+<pb n="9" facs="tcp:115553:6"/>hammers againſt it ſelfe. Againe, 2. The <hi>old Puritan</hi> was ſo far from ſuppoſing Tithes to be <hi>Antichriſtian,</hi> or unlawfull mainte<g ref="char:EOLhyphen"/>nance for Miniſters, that he did not onely acquieſce in them, and live upon them, as hath been ſaid, but they were buying in <hi>Impropriations,</hi> and reſtoring them to the <hi>Miniſters,</hi> 'tis known, who hindred that good work, and what became of them; the revivall of this project an holy piece of <hi>old Puritaniſme,</hi> would well become this preſent <hi>Age, Parliament, and Army;</hi> the late <hi>Parliament</hi> ſet in this a good Copy in their <hi>Augmentations to the yearly value of well neare</hi> 20000.l. that <hi>Parliament</hi> alſo gave a 5. part to ſcandalous <hi>Miniſters,</hi> as they were called; ſurely, this <hi>Parliament</hi> will not take away all from thoſe they know to bee godly <hi>Miniſters,</hi> and expoſe ſo many righteous men and their fa<g ref="char:EOLhyphen"/>milies to inevitable beggary, which K. <hi>Henry the</hi> 8 <hi>did not to An<g ref="char:EOLhyphen"/>tichiſtian Fryars and Monks,</hi> but gave them maintenance for their lives; ſurely this <hi>Parliament</hi> will provide better for Chriſts Mini<g ref="char:EOLhyphen"/>ſters,<note place="margin">Declarat. 1.</note> for they have <hi>declared themſelves to be ſet by God for the good of all, and in all to be as tender of the Lives, Estates, Liberties, Juſt rights, and properties of all others, as we are of our ſelves and our po<g ref="char:EOLhyphen"/>ſterities,</hi> and they have heard it evidenced that the Miniſters have as good, a legall, and civill right and intereſt to, and in their main<g ref="char:EOLhyphen"/>tenance by the Common Law of <hi>England,</hi> as any Engliſh-man hath to his poſſeſſions. That is a weak Objection, and people are importunate, and will have them taken away, for it is moſt cer<g ref="char:EOLhyphen"/>tain, the beſt and greateſt part of the Nation are for their continu<g ref="char:EOLhyphen"/>ance, the <hi>good old Puritan</hi> would have it ſo, it would be enquired, if it be not already evident, whether Petitions againſt Tithes have not been gained by the deſigne of Jeſuiticall and avaritious Pro<g ref="char:EOLhyphen"/>jectors; I am more then confident, if a Calculation were made, according to that of <hi>Worceſterſhire,</hi> there would be many, very many more for them, then have, or can, or will appear againſt them. At the building of the ſecond <hi>Temple of the Jews</hi> the Heathen that were about them <hi>ſtrengthened their hands with Gold and Sil<g ref="char:EOLhyphen"/>ver,</hi> &amp;c. <hi>Ezra</hi> 1.6, 7.15. Godly and Chriſtian Governors will doubtleſſe follow the examples of thoſe good Kings <hi>Hezekiah and Joſiah, that encouraged the Saints and Miniſters of the Lord in the Law, and ſervice of the houſe of the Lord,</hi> 2 Chron. 31.4. &amp; 35.2.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
